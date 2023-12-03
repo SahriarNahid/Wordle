@@ -1,0 +1,8 @@
+               
+               [How To Play Wordle]
+
+[1]You can have only 6 guesses to find out the correct word.
+[2]You can only guess 5-letter words.
+[3]Green - You guessed a letter in word at correct position.
+[5]Yellow- You guessed a letter in word but the position is wrong.
+[6]'-'(dash) - Correct word doesn't contain the letter.-
